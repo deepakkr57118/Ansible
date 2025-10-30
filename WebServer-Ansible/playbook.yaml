@@ -1,10 +1,10 @@
 ---
 
-name: configure and deploy webserver
-hosts: web
-become: yes
-vars_files:
-  - roles/webserver/vars/main.yaml
+- name: configure and deploy webserver
+  hosts: web
+  become: yes
+  vars_files:
+    - roles/webserver/vars/main.yaml
 
-roles:
-  - webserver
+  roles:
+    - webserver
