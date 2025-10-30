@@ -1,0 +1,17 @@
+site_name: "Ansible Mart"
+
+products:
+  - name: "Wireless Headphones"
+    description: "High-quality Bluetooth headphones with noise cancellation."
+    price: 2999
+    image: "https://images.unsplash.com/photo-1511367461989-f85a21fda167"
+
+  - name: "Smart Watch"
+    description: "Track your health and fitness with style."
+    price: 4999
+    image: "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f"
+
+  - name: "Gaming Mouse"
+    description: "Precision optical mouse with RGB lighting."
+    price: 1499
+    image: "https://images.unsplash.com/photo-1587202372775-98927b6a5e8e"
